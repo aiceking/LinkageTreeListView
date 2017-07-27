@@ -2,4 +2,4 @@
 树形结构ListView  
 左右两个ListView联动  
 
-![Image text](https://github.com/AndroidCloud/LinkageTreeListView/blob/master/DemoImg/GIF.gif)
+![Image text](https://github.com/AndroidCloud/LinkageTreeListView/blob/master/DemoImg/111.gif)
